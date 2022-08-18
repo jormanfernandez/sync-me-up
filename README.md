@@ -33,3 +33,7 @@ Once the dependencies are installed, you can run it with
   npm run serve
 ```
 
+
+## Video Explanation
+- [How the system works](https://drive.google.com/file/d/1IO77vJRs4n1FFT2ncKm9h25To2W-kdKe/view?usp=sharing)
+
