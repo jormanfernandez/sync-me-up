@@ -36,5 +36,5 @@ Once the dependencies are installed, you can run it with
 
 ## Explanation and Technical Design
 - [How the system works](https://drive.google.com/file/d/1IO77vJRs4n1FFT2ncKm9h25To2W-kdKe/view?usp=sharing)
-- [Technical Design](https://drive.google.com/file/d/1IO77vJRs4n1FFT2ncKm9h25To2W-kdKe/view?usp=sharing)
+- [Technical Design](https://docs.google.com/document/d/1T-Z3GZsK12y5tBeZORQrfkOQeya1dCZtmpjcM3ez894/edit?usp=sharing)
 
